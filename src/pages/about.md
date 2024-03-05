@@ -3,34 +3,22 @@ layout: ../layouts/AboutLayout.astro
 title: "About"
 ---
 
-AstroPaper is a minimal, responsive and SEO-friendly Astro blog theme. I designed and crafted this based on [my personal blog](https://satnaing.dev/blog).
+## The services
 
-This theme is aimed to be accessible out of the box. Light and dark mode are supported by
-default and additional color schemes can also be configured.
+- Test automation framework implementations.
+- Guidance on testing process within the CI/CD pipelines.
+- Cross-team testing strategies.
+- Accessibility audits for web and mobile app.
 
-This theme is self-documented \_ which means articles/posts in this theme can also be considered as documentations. So, see the documentation for more info.
+## Approach
+- Focusing on current path from requirements to code to production - I like to keep that view in mind, regards quality.
+- Attention to detail while keeping a broader viewpoint.
+- Sometimes my soft skills provide the best value for a project, demonstrating my belief in values of transparency and team happiness.
+- Tenacious with developing tests - there is always a way.
+- Ensuring all included in quality discussions, I always chase consensus.
+- I choose the right tools for the project, I am not married to any tools - instantly choosing the familiar is common trap.
+- I mentor others - either by arrangement or when I am in a Lead position.
+- I can advise ways on working based on years of practical experience
+- I never ponder of how many ways a project could fail, only on ways to avoid those fails.
 
-<div>
-  <img src="/assets/dev.svg" class="sm:w-1/2 mx-auto" alt="coding dev illustration">
-</div>
-
-## Tech Stack
-
-This theme is written in vanilla JavaScript (+ TypeScript for type checking) and a little bit of ReactJS for some interactions. TailwindCSS is used for styling; and Markdown is used for blog contents.
-
-## Features
-
-Here are certain features of this site.
-
-- fully responsive and accessible
-- SEO-friendly
-- light & dark mode
-- fuzzy search
-- super fast performance
-- draft posts
-- pagination
-- sitemap & rss feed
-- highly customizable
-
-If you like this theme, you can star/contribute to the [repo](https://github.com/satnaing/astro-paper).  
-Or you can even give any feedback via my [email](mailto:contact@satnaing.dev).
+![Client history](https://jaffamonkey.com/img/clients.png)
